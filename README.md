@@ -12,7 +12,7 @@ The strategy implemented here polls a market for updates and then bets the price
    ```
    MANIFOLD_API_KEY=xxxxxxxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
    MANIFOLD_USERNAME=YourUsername
-   MARKET_SLUG=slug-for-market
+   MANIFOLD_MARKET_SLUG=slug-for-market
    ```
 
 4. Install npm packages with `yarn`
