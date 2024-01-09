@@ -2,7 +2,7 @@ import "dotenv/config";
 
 const yourKey = process.env.MANIFOLD_API_KEY;
 
-const API_URL = "https://manifold.markets/api/v0";
+const API_URL = "https://api.manifold.markets/v0";
 
 // Information about a market, but without bets or comments
 export type LiteMarket = {
